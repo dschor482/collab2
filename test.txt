@@ -1,2 +1,6 @@
 Hello hello!
+<<<<<<< HEAD
 Rah rah rah break break break
+=======
+Let's break it
+>>>>>>> origin/master
