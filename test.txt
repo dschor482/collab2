@@ -1,6 +1,3 @@
 Hello hello!
 Let's break it
 
-Branch change1
-Branch change 2
-brnach change 3
